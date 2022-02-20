@@ -1,0 +1,1 @@
+import{r as e,o as r,c as s,a as o,F as a}from"./app.43305326.js";import{_ as c}from"./plugin-vue_export-helper.21dcd24c.js";const _={};function m(p,f){const t=e("Status"),n=e("UsedIn");return r(),s(a,null,[o(t),o(n)],64)}var u=c(_,[["render",m]]);export{u as default};
